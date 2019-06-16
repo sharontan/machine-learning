@@ -1,4 +1,4 @@
-#S&P 500
+# S&P 500
 
 This dataset consists historical prices of the S&P 500 index from 1950 to 2015, with the following columns:
 
