@@ -1,1 +1,1 @@
-### Analysis of data from various business sectos using machine learning techniques
+### Analysis of data from various data sources using machine learning techniques
